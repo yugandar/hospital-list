@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "593270121643",
+    "firebase_url": "https://hospitallist-e7630.firebaseio.com",
+    "project_id": "hospitallist-e7630",
+    "storage_bucket": "hospitallist-e7630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593270121643:android:e630b4314e5bc1c1",
+        "android_client_info": {
+          "package_name": "com.example.goa.hospitallist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593270121643-lefu5cjgjfv97fc80rl8s2shjqopdrgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goa.hospitallist",
+            "certificate_hash": "221ebb15a804bda4162b7b5b321ae1de14da7236"
+          }
+        },
+        {
+          "client_id": "593270121643-146sh786937rh61e4tsgcfgbtoh105f7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "593270121643-146sh786937rh61e4tsgcfgbtoh105f7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcIgIBmlO6-GcySPYT0eshBud-W6_aTvU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593270121643-146sh786937rh61e4tsgcfgbtoh105f7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

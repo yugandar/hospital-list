@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Hospital List</string>
+    <string name="title_activity_gallery">gallery</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="enable_gps">Enable GPS</string>
+    <string name="pick_location">Pick Location</string>
+    <string name="title_activity_splash">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_desc">Hospital Finder to get details Of Nearby Hospitals clinicd and Doctors in Your Area</string>
+
+    <string name="slide_2_desc"> Search all nearby hospitals/health centres/clinics from you current mobile GPS location</string>
+
+    <string name="slide_3_desc">Patient safety was defined by the IOM as “the prevention of harm to patients.” Emphasis is placed on the system of care delivery </string>
+
+    <string name="slide_4_desc"> hospital combines assistance to people with teaching to medical students and nurses.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen1</item>
+        <item>@color/dot_dark_screen2</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen4</item>
+    </array>
+
+    <string name="spinner_category">Category</string>
+    <string name="hospital_locator">Hospital Locator</string>
+</resources>
