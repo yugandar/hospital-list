@@ -46,5 +46,18 @@
         android:textStyle="bold"
         android:layout_alignLeft="@+id/pick_location_id" />
 
+    <Button
+        android:id="@+id/emergency"
+        android:layout_width="327dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/imageView"
+        android:layout_marginBottom="46dp"
+        android:background="#027bd1"
+        android:text="Emergency"
+        android:textColor="@color/background"
+        android:textStyle="bold"
+        android:layout_alignLeft="@+id/imageView" />
+
 
 </RelativeLayout>

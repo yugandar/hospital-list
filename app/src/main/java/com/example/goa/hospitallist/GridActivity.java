@@ -16,12 +16,13 @@ public class GridActivity extends AppCompatActivity {
         setContentView(R.layout.activity_grid);
 
 
-        Button btn1,bnt2;
+        Button btn1,bnt2,btn3;
 
         btn1 = (Button) findViewById(R.id.pick_location_id);
 
         bnt2 = (Button) findViewById(R.id.enable_gps_id);
 
+        btn3 =(Button) findViewById(R.id.emergency);
 
 
         btn1.setOnClickListener(
@@ -52,6 +53,19 @@ public class GridActivity extends AppCompatActivity {
                     }
                 }
         );
+
+        btn3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+
+                Intent intent = new Intent(GridActivity.this,EmergencyActivity.class);
+
+                startActivity(intent);
+
+
+            }
+        });
 
 
     }
