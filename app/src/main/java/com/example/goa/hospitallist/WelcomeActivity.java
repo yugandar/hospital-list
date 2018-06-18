@@ -18,7 +18,7 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-class WelcomeActivity extends AppCompatActivity {
+public class WelcomeActivity extends AppCompatActivity {
 
     private ViewPager viewPager;
     private MyViewPagerAdapter myViewPagerAdapter;
